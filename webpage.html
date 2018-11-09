@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<body bgcolor="grey">
+<body bgcolor="white">
 <h1>Self  Introduction </h1>
 <h3>From an attempt to make a web page..)</h3>
 
