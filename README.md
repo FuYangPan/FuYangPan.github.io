@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<body background="https://wx2.sinaimg.cn/large/006nnOhGly1fxibbe8tggj30rs0fn79s.jpg">
+<body background="https://wx2.sinaimg.cn/large/006nnOhGly1fxibbe9hqkj30xc0irdh4.jpg">
 <h1>Self  Introduction </h1>
 <h3>From an attempt to make a web page... :)</h3>
 
